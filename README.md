@@ -10,7 +10,8 @@ Olá! Me chamo Carlos, tenho 18 anos e sou estudante de Infonet e Desivolviement
 
 ### 🌐 Conecte-se comigo
 
-[![Instagram](https://www.instagram.com/cs.alvesx/)
+[![Instagram](https://img.shields.io/badge/Instagram-@cs.alvesx-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/cs.alvesx/)
+
 
 ---
 
